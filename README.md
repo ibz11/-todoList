@@ -1,5 +1,7 @@
 <h1>A todolist using laravel</h1>
-![image](https://user-images.githubusercontent.com/90426909/173827919-aac4bfc3-9bc6-41c6-86f2-7ff3f3f7b88f.png)
+<h2>link to the app</h2>
+https://laralistdo.herokuapp.com/
+
 
 
 </br>
